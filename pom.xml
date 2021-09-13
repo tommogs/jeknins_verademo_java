@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.veracode</groupId>
-	<artifactId>carrier-data-api-0.141.0-dev.2+NXS.349.e3d1c22</artifactId>
+	<artifactId>verademo</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>verademo Maven Webapp</name>
